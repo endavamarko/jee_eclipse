@@ -9,7 +9,7 @@
 </head>
 <%
 	if (request.getParameter("submit") != null) 
-		out.println("zdravo");
+		out.println("Zdravo");
 	
 %>
 <body>
